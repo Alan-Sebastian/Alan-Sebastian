@@ -33,5 +33,5 @@
 </p>
 <br>
 
-![Alan-Sebastian's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Alan-Sebastian&custom_title=Alan-Sebastian's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+![Alan-Sebastian's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Alan-Sebastian&custom_title=Alan-Sebastian's%20Contribution%20Graph&theme=dark&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 <a href="https://github.com/Alan-Sebastian?tab=followers" align="center"><img src="https://img.shields.io/github/followers/Alan-Sebastian?label=Followers&style=social" alt="GitHub Badge"></a>
