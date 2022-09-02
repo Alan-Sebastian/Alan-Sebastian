@@ -7,7 +7,6 @@
 <ul>
 <li>I love to learn to code in differnt languages</li>
 <li>I love to build websites</li>
-<li>Ask me about <a href ="https://www.java.com/en/" target = "_blank">Java</a> </li>
 <ul>
 </div>
 
