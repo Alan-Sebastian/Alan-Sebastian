@@ -26,10 +26,12 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Alan-Sebastian/github-readme-stats"><img alt="Alan-Sebastian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Alan-Sebastian&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Alan-Sebastian/github-readme-stats"><img alt="Alan-Sebastian's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Sebastian&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
- <br><br>
-  
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Alan-Sebastian&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Alan-Sebastian&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
 
+![Alan-Sebastian's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Alan-Sebastian&custom_title=Alan-Sebastian's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 <a href="https://github.com/Alan-Sebastian?tab=followers" align="center"><img src="https://img.shields.io/github/followers/Alan-Sebastian?label=Followers&style=social" alt="GitHub Badge"></a>
