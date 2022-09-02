@@ -32,4 +32,4 @@
  <br><br>
   
 
-<a href="https://github.com/Alan-Sebastian?tab=followers"><img src="https://img.shields.io/github/followers/Alan-Sebastian?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Alan-Sebastian?tab=followers" align="center"><img src="https://img.shields.io/github/followers/Alan-Sebastian?label=Followers&style=social" alt="GitHub Badge"></a>
